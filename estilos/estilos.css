@@ -1,0 +1,94 @@
+header{
+    
+    width: 100%;
+   
+  
+    
+}
+h1{
+    
+    text-align: center;
+    color: rgb(7, 129, 88);
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+   
+   
+
+
+}
+.menu{
+    display: inline;
+    margin-left: 1000px;
+    width: 50%;
+    color: rgb(187, 109, 109);
+    
+   
+
+}
+.imagen{
+   
+    padding: 10px;
+    display: inline;
+    width: 30%;
+    margin-left: 0%;
+    
+
+}
+.imagen2{
+    
+  width: 100%;
+
+    
+
+}
+.galeria {
+    background: #bba413;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+  }
+  
+  .galeria-inport{
+    display: flex;
+   width: 25%;
+  }
+  
+  
+  
+  .galeria-inport{
+    display: flex;
+    width: 25%;
+  }
+
+  
+.galeria-inport{
+    display: flex;
+    width: 25%;
+}
+
+.galeria-inport{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.galeria-inport{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.galeria-inport{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.galeria-inport{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.contenedor-footer{
+    text-align: center;
+}
